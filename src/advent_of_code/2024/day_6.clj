@@ -8,7 +8,7 @@
   [input-file-path]
   (let [lines (-> input-file-path
                   (slurp)
-                  (str/split #"\n"))
+                  (str/split-lines))
         map-width (-> lines first count)
         map-height (count lines)]
     (->> (for [[y line] (map-indexed vector lines)

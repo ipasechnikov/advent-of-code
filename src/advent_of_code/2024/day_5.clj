@@ -5,7 +5,7 @@
 (defn parse-input-file
   [input-file-path]
   (let [file-content (slurp input-file-path)
-        [rules-str updates-str] (str/split file-content #"\n\n")
+        [rules-str updates-str] (str/split file-content #"(\r?\n){2}")
         rules (->> (str/split-lines rules-str)
                    (map #(str/split % #"\|"))
                    (map (fn [[x-str y-str]] [(Integer/parseInt x-str)
