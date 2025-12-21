@@ -1,4 +1,4 @@
-(ns advent-of-code.2024.day-6
+(ns advent-of-code.2024.day-06
   (:require
    [clojure.string :as str]))
 
@@ -172,9 +172,9 @@
          (count))))
 
 (comment
-  (part-1 "input/2024/day-6.txt")
+  (part-1 "input/2024/day-06.txt")
   ;;=> 5208
 
-  (part-2 "input/2024/day-6.txt")
+  (part-2 "input/2024/day-06.txt")
   ;;=> 1972
   :rcf)

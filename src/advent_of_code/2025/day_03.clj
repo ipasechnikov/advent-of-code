@@ -1,4 +1,4 @@
-(ns advent-of-code.2025.day-3
+(ns advent-of-code.2025.day-03
   (:require
    [clojure.string :as str]))
 
@@ -58,20 +58,20 @@
 
 (comment
 
-  (part-1 "input/2025/day-3.example.txt")
+  (part-1 "input/2025/day-03.example.txt")
   ;;=> 357
 
-  (part-2 "input/2025/day-3.example.txt")
+  (part-2 "input/2025/day-03.example.txt")
   ;;=> 3121910778619
 
   :rcf)
 
 (comment
 
-  (part-1 "input/2025/day-3.txt")
+  (part-1 "input/2025/day-03.txt")
   ;;=> 17155
 
-  (part-2 "input/2025/day-3.txt")
+  (part-2 "input/2025/day-03.txt")
   ;;=> 169685670469164
 
   :rcf)

@@ -1,4 +1,4 @@
-(ns advent-of-code.2025.day-4
+(ns advent-of-code.2025.day-04
   (:require
    [clojure.set :refer [difference intersection]]
    [clojure.string :as str]))
@@ -79,20 +79,20 @@
 
 (comment
 
-  (part-1 "input/2025/day-4.example.txt")
+  (part-1 "input/2025/day-04.example.txt")
   ;;=> 13
 
-  (part-2 "input/2025/day-4.example.txt")
+  (part-2 "input/2025/day-04.example.txt")
   ;;=> 43
 
   :rcf)
 
 (comment
 
-  (part-1 "input/2025/day-4.txt")
+  (part-1 "input/2025/day-04.txt")
   ;;=> 1464
 
-  (part-2 "input/2025/day-4.txt")
+  (part-2 "input/2025/day-04.txt")
   ;;=> 8409
 
   :rcf)

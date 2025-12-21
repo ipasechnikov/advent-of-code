@@ -1,15 +1,15 @@
 # Advent of Code in Clojure
 
 2025:
-[1](src/advent_of_code/2025/day_1.clj),
-[2](src/advent_of_code/2025/day_2.clj),
-[3](src/advent_of_code/2025/day_3.clj),
-[4](src/advent_of_code/2025/day_4.clj),
-[5](src/advent_of_code/2025/day_5.clj),
-[6](src/advent_of_code/2025/day_6.clj),
-[7](src/advent_of_code/2025/day_7.clj),
-[8](src/advent_of_code/2025/day_8.clj),
-[9](src/advent_of_code/2025/day_9.clj),
+[1](src/advent_of_code/2025/day_01.clj),
+[2](src/advent_of_code/2025/day_02.clj),
+[3](src/advent_of_code/2025/day_03.clj),
+[4](src/advent_of_code/2025/day_04.clj),
+[5](src/advent_of_code/2025/day_05.clj),
+[6](src/advent_of_code/2025/day_06.clj),
+[7](src/advent_of_code/2025/day_07.clj),
+[8](src/advent_of_code/2025/day_08.clj),
+[9](src/advent_of_code/2025/day_09.clj),
 [10](src/advent_of_code/2025/day_10.clj),
 [11](src/advent_of_code/2025/day_11.clj),
 [12](src/advent_of_code/2025/day_12.clj)
