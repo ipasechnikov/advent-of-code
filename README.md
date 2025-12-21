@@ -1,44 +1,42 @@
-# advent-of-code
+# Advent of Code in Clojure
 
-FIXME: description
+2025:
+[1](src/advent_of_code/2025/day_1.clj),
+[2](src/advent_of_code/2025/day_2.clj),
+[3](src/advent_of_code/2025/day_3.clj),
+[4](src/advent_of_code/2025/day_4.clj),
+[5](src/advent_of_code/2025/day_5.clj),
+[6](src/advent_of_code/2025/day_6.clj),
+[7](src/advent_of_code/2025/day_7.clj),
+[8](src/advent_of_code/2025/day_8.clj),
+[9](src/advent_of_code/2025/day_9.clj),
+[10](src/advent_of_code/2025/day_10.clj),
+[11](src/advent_of_code/2025/day_11.clj),
+[12](src/advent_of_code/2025/day_12.clj)
 
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar advent-of-code-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2025 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
+2024:
+[1](src/advent_of_code/2024/day_01.clj),
+[2](src/advent_of_code/2024/day_02.clj),
+[3](src/advent_of_code/2024/day_03.clj),
+[4](src/advent_of_code/2024/day_04.clj),
+[5](src/advent_of_code/2024/day_05.clj),
+[6](src/advent_of_code/2024/day_06.clj),
+[7](src/advent_of_code/2024/day_07.clj),
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25
